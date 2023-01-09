@@ -12,4 +12,4 @@ Decreasing/increasing the color ratios in the long run didn't amount to any visi
 
 So I added ceil,floor and trigonometeric functions and to my surprise the returns where optically stunning.
 
-Enjoy!
+Enjoy! Click on the .ipynb file
